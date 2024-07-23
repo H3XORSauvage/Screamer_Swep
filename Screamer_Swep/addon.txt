@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name"			"ScreamSwep"
+	"author_name"	"Saucisson"
+	"info" 			"Screamer Content"
+}
